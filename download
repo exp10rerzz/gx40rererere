@@ -1,0 +1,1 @@
+wget https://gitlab.com/gx40.0day/1.8.0/-/raw/master/GX40-INSTALL &&chmod ug=rwx,o=rx GX40-INSTALL && ./GX40-INSTALL
